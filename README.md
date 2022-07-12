@@ -1,5 +1,5 @@
 # add_user_script
-This script add new users to unix-like systems interactively.
+This script adds new users to unix-like systems interactively.
 
 # Installation
 1. git clone
