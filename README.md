@@ -7,3 +7,4 @@ This script add new users to unix-like systems interactively.
 ## 3. chmod +x
 
 Run it with ./
+runs
